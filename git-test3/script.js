@@ -9,3 +9,7 @@ const work = (n) =>{
 const sayBye = () => {
     alert("BYE bye")
 }
+
+const shoot = () => {
+    alert("fuck")
+}
